@@ -1,4 +1,4 @@
-# AIO-Switch-Updater (add Vietnamese and maybe more language) (WORK IN PROGRESS)
+# AIO-Switch-Updater (add Vietnamese and maybe more language,also add faster link in the future) (WORK IN PROGRESS)
 ![hbappstore](https://img.shields.io/endpoint?url=https%3A%2F%2Frunkit.io%2Fhomlet%2Fhbappstore-shieldsio%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Fswitchbru.com%2Fappstore%2Frepo.json%26name%3Daio-switch-updater)
 ![releases](https://img.shields.io/github/downloads/HamletDuFromage/AIO-switch-updater/total)
 [![Build AIO-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater/actions/workflows/main.yml/badge.svg)](https://github.com/HamletDuFromage/aio-switch-updater/actions/workflows/main.yml)
