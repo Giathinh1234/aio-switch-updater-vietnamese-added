@@ -16,9 +16,9 @@
 <img src = "https://user-images.githubusercontent.com/61667930/93691188-7833f000-fad1-11ea-866d-42e19be54425.jpg"\><br>
 </p>
 
-A Nintendo Switch homebrew app to download and update CFWs, FWs and cheat codes. Supports Atmosphère, ReiNX and SXOS.
+A Nintendo Switch homebrew app to download and update CFWs, FWs, cheat codes and doing other stuffs! Supports Atmosphère, ReiNX and SXOS.
 
-Works on **unpatched** (Erista) and **patched** (v2/Mariko) Switches.
+Works on MY **unpatched** Switch
 
 ## How to install
 Copy the `aio-switch-updater/` directory to `/switch/` on your sdcard.
@@ -123,8 +123,10 @@ I do not own, host nor distribute any of the files that can be downloaded with t
 - Iliak for [Cheat Slips](https://www.cheatslips.com/).
 
 ### Like the app?
-+HELP [hamletdufromage](https://github.com/HamletDuFromage) BY DONATE FOR HIM:
++ HELP [hamletdufromage](https://github.com/HamletDuFromage) BY DONATE FOR HIM:
 - Liberapay : <a href="https://liberapay.com/HamletDuFromage/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 - BTC: 1CoFc1bY5AHLP6Noe1zmqnJnp7ZWBxyo79
 - ETH: 0xf68f568e21a15934e0e9a6949288c3ca009140ba
 - Monero (XMR): 88wjCuhHX3oNhVpEdYeUx3LvrkdTvcTHx7v7L5fQpjCg7QiAReJUVR4LPase5Byj2UhdVdLtvysJaXTFKq2EnuvuLjvQMGL
++Help me by donate for me:
+- ETH: 0xFBb21C9E10b156FB89632a9E934B6bB000bCf4aa
