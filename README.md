@@ -1,4 +1,4 @@
-# AIO-Switch-Updater
+# AIO-Switch-Updater (add Vietnamese)
 ![hbappstore](https://img.shields.io/endpoint?url=https%3A%2F%2Frunkit.io%2Fhomlet%2Fhbappstore-shieldsio%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Fswitchbru.com%2Fappstore%2Frepo.json%26name%3Daio-switch-updater)
 ![releases](https://img.shields.io/github/downloads/HamletDuFromage/AIO-switch-updater/total)
 [![Build AIO-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater/actions/workflows/main.yml/badge.svg)](https://github.com/HamletDuFromage/aio-switch-updater/actions/workflows/main.yml)
@@ -109,6 +109,7 @@ PRs and suggestions are encouraged! If you wish to help with the localization of
 I do not own, host nor distribute any of the files that can be downloaded with this homebrew tool. At the owner's request, I will immediately remove the ability to download any problematic file.
 
 ## Special thanks
+- [hamletdufromage](https://github.com/HamletDuFromage) for distribute and let me fork.
 - [natinusala](https://github.com/natinusala) for the Borealis library.
 - [tiansongyu](https://github.com/tiansongyu) for bringing support for multi-language and for his Chinese translation.
 - [yyoossk](https://github.com/yyoossk) for the Japanese locale.
