@@ -1,4 +1,4 @@
-# AIO-Switch-Updater (add Vietnamese)
+# AIO-Switch-Updater (add Vietnamese and maybe more language)
 ![hbappstore](https://img.shields.io/endpoint?url=https%3A%2F%2Frunkit.io%2Fhomlet%2Fhbappstore-shieldsio%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Fswitchbru.com%2Fappstore%2Frepo.json%26name%3Daio-switch-updater)
 ![releases](https://img.shields.io/github/downloads/HamletDuFromage/AIO-switch-updater/total)
 [![Build AIO-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater/actions/workflows/main.yml/badge.svg)](https://github.com/HamletDuFromage/aio-switch-updater/actions/workflows/main.yml)
@@ -123,6 +123,7 @@ I do not own, host nor distribute any of the files that can be downloaded with t
 - Iliak for [Cheat Slips](https://www.cheatslips.com/).
 
 ### Like the app?
++HELP [hamletdufromage](https://github.com/HamletDuFromage) BY DONATE FOR HIM:
 - Liberapay : <a href="https://liberapay.com/HamletDuFromage/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 - BTC: 1CoFc1bY5AHLP6Noe1zmqnJnp7ZWBxyo79
 - ETH: 0xf68f568e21a15934e0e9a6949288c3ca009140ba
